@@ -1,0 +1,83 @@
+Año;Grupo;Grupo de Causas de Defunción;Negrita;Total;Menores de 1;1 a 4;5 a 14;15 a 24;25 a 34;35 a 44;45 a 54;55 a 64;65 a 74;75 y mas;Sin especificar
+2005;0000;TODAS LAS CAUSAS;1;293529;9507;1539;1929;5361;6139;8786;19779;36326;57987;145414;762
+2005;0001;A. TOTAL CAUSAS DEFINIDAS;1;271706;8960;1433;1849;5135;5848;8248;18444;33858;53878;133440;613
+2005;0100;1. Enfermedades infecciosas y parasitarias;1;14028;330;151;99;188;611;859;982;1573;2581;6624;30
+2005;0101; Enfermedades infecciosas intestinales;2;346;85;38;11;4;4;11;10;15;39;128;1
+2005;0102;Tuberculosis inclusive secuelas;2;713;0;5;3;34;55;56;106;133;150;167;4
+2005;0103;Tetanos;2;12;0;0;1;0;0;0;0;5;3;3;0
+2005;0104;Septicemias;2;10540;167;73;52;97;135;224;521;1113;2104;6032;22
+2005;0105;Infección meningocócica;2;32;8;9;5;3;1;1;2;1;1;1;0
+2005;0106;Meningitis viral;2;3;0;0;0;0;0;0;0;1;0;2;0
+2005;0110;Hepatitis viral;2;220;1;5;2;0;4;12;28;44;66;58;0
+2005;0111;Enf.por virus de la inmunodeficiencia humana;2;1307;10;3;11;41;385;496;232;91;28;9;1
+2005;0112;Tripanosomiasis (Enfermedad de Chagas);2;485;2;0;1;0;5;23;54;126;135;137;2
+2005;0113;Las demás enf. infecciosas y parasitarias ;2;370;57;18;13;9;22;36;29;44;55;87;0
+2005;0199;2. Tumores;2;59036;31;140;315;416;770;2107;6042;11386;15597;22120;112
+2005;0200;Tumores Malignos;1;56296;19;123;283;379;710;2001;5774;10903;14953;21044;107
+2005;0201; T M  Esófago;2;1909;0;0;0;1;1;45;156;393;562;749;2
+2005;0202; T M  Estómago;2;3049;0;1;1;8;36;121;297;612;832;1133;8
+2005;0203; T M  Colon, recto,  de la porción rectosigmoidea y ano;2;6285;0;0;2;16;46;144;482;996;1679;2913;7
+2005;0204; T M  Hígado y de las vías biliares intrahepática;2;1705;1;1;1;6;11;45;137;330;486;683;4
+2005;0205; T M  Vesícula biliar y otras partes de las vías biliares;2;1288;0;0;1;1;5;35;121;254;366;501;4
+2005;0206; T M  Páncreas;2;3512;1;0;2;1;13;66;275;664;1051;1437;2
+2005;0207; T M  Tráquea, de los bronquios y del pulmón;2;8503;0;0;6;8;29;215;1148;2220;2603;2252;22
+2005;0208; T M  Mama;2;5401;0;0;0;3;56;321;852;1078;1161;1923;7
+2005;0209; T M  Útero;2;2315;0;0;0;7;91;251;413;469;502;576;6
+2005;0210; T M  Ovario;2;1076;0;0;1;8;15;48;157;254;262;331;0
+2005;0211; T M  Próstata;2;3788;0;0;1;0;1;3;46;324;956;2448;9
+2005;0212; T M  Riñón y otros órganos urinarios, excepto vejiga;2;1498;0;4;8;4;11;30;171;376;454;435;5
+2005;0213; T M  Vejiga urinaria;2;1382;0;0;0;0;1;3;71;183;374;747;3
+2005;0214; T M  Encéfalo y o/partes del sistema nervioso central ;2;1075;3;25;58;23;48;88;149;237;238;204;2
+2005;0215; T M  Linfoma no Hodgkin;2;1429;1;8;18;27;50;88;158;246;353;475;5
+2005;0216; T M  Leucemias;2;1816;9;54;117;124;90;106;150;239;346;579;2
+2005;0217; T M  Tumor maligno de sitios no especificados ;2;3584;1;1;5;14;51;102;297;658;1002;1449;4
+2005;0218; T M  Los demás tumores malignos ;2;6681;3;29;62;128;155;290;694;1370;1726;2209;15
+2005;0299;Carcinoma en situ, tumores benignos y de comportamiento incierto o desconocido;2;2740;12;17;32;37;60;106;268;483;644;1076;5
+2005;0300;3. Diabetes mellitus;1;8982;2;2;11;22;43;132;526;1532;2611;4076;25
+2005;0400;4. Def.de la nutrición y anemias nutricionales;1;1273;84;45;14;10;15;9;30;86;174;796;10
+2005;0500;5. Trastornos metabólicos;1;1555;48;32;29;14;8;11;42;81;185;1099;6
+2005;0600;6. Meningitis ;1;395;60;19;8;18;19;30;47;65;55;72;2
+2005;0700;7. Enfermedad de Alzheimer;1;1045;0;0;0;0;2;0;3;31;132;876;1
+2005;0800;8. Trast. mentales y del comportamiento;1;2162;0;0;1;8;16;64;172;221;295;1377;8
+2005;0810;Síndrome de dependencia del alcohol;2;638;0;0;0;2;13;59;161;177;151;68;7
+2005;0820;Otros transtornos mentales y del comportamiento;2;1524;0;0;1;6;3;5;11;44;144;1309;1
+2005;0900;9. Enfermedades del sistema circulatorio;1;89647;97;59;79;271;502;1472;4747;10122;17976;54148;174
+2005;0910;Enfermedades hipertensivas;2;5177;0;1;1;3;17;50;224;606;994;3272;9
+2005;0911;Enfermedades isquémicas del corazón;2;19512;1;1;4;29;77;330;1348;2952;4649;10097;24
+2005;0912;Insuficiencia cardíaca;2;28206;32;10;21;76;111;290;882;2198;4709;19826;51
+2005;0913;Compl.y descripc.mal definidas de enf. cardíaca;2;2229;4;7;1;9;16;43;143;252;455;1297;2
+2005;0914;Las demás enfermedades del corazón;2;9939;44;27;25;59;93;216;568;1161;2099;5622;25
+2005;0920;Enfermedades cerebrovasculares;2;20634;13;10;20;83;170;496;1409;2542;4341;11497;53
+2005;0921;Ateroesclerosis;2;1184;0;0;0;1;0;0;2;17;74;1087;3
+2005;0922;Las demás enfermedades del sistema circulatorio;2;2766;3;3;7;11;18;47;171;394;655;1450;7
+2005;1000;10. Enfermedades del sistema respiratorio;1;41398;673;187;123;279;365;613;1545;3430;7306;26805;72
+2005;1010;Neumonía e influenza;2;15117;219;88;55;109;125;221;464;954;2171;10680;31
+2005;1011;Bronquitis y bronquiolitis agudas;2;137;65;5;0;1;0;0;4;3;6;52;1
+2005;1012;Las demás infecciones respiratorias agudas ;2;319;7;4;0;3;2;1;7;10;62;223;0
+2005;1020;Enfermedades crónicas de las vías respiratorias inferiores;2;5569;5;8;10;21;39;66;252;788;1548;2826;6
+2005;1030;Neumonitis debidas a sólidos y líquidos;2;2299;187;29;11;26;26;21;61;110;265;1561;2
+2005;1040;Insuficiencia respiratoria no clasificada en otra parte;2;10105;61;23;20;54;78;144;370;828;1902;6610;15
+2005;1050;Las demás enfermedades del sistema respiratorio;2;7852;129;30;27;65;95;160;387;737;1352;4853;17
+2005;1100;11. Apendicitis, hernia de la cavidad abdominal y obstrucción intestinal;1;1221;10;2;4;9;6;15;44;101;201;826;3
+2005;1200;12. Enfermedades del hígado ;1;4254;7;19;17;32;69;285;834;1093;998;893;7
+2005;1210;Ciertas enf. crónicas del hígado y cirrosis;2;2697;1;1;2;8;36;191;537;732;652;534;3
+2005;1220;Las demás enfermedades del hígado;2;1557;6;18;15;24;33;94;297;361;346;359;4
+2005;1300;13. Enfermedades del sistema urinario;1;8173;14;13;26;37;66;108;364;816;1702;5008;19
+2005;1310;Nefritis y nefrosis;2;6644;14;10;24;31;58;100;330;740;1478;3841;18
+2005;1320;Las demás enfermedades del sistema urinario;2;1529;0;3;2;6;8;8;34;76;224;1167;1
+2005;1400;14. Embarazo, parto y puerperio;1;291;0;0;1;71;135;79;5;0;0;0;0
+2005;1500;15.  Ciertas afecciones originadas en el período perinatal;1;4924;4924;0;0;0;0;0;0;0;0;0;0
+2005;1600;16.  Malformaciones Congénitas, Deformaciones y anomalías cromosómicas;1;2654;2206;197;85;51;25;16;28;26;7;10;3
+2005;1700;17. Causas externas;1;18558;335;415;804;3454;2894;2002;2083;1866;1749;2838;118
+2005;1701;Accidentes de tráfico de vehículo de motor;2;3573;23;62;226;665;672;512;496;402;293;195;27
+2005;1702;Otros accidentes de transporte, inclusive secuelas;2;364;1;8;33;67;64;49;58;35;26;21;2
+2005;1703;Ahogamiento y sumersión accidentales;2;566;10;123;69;120;72;41;56;27;15;28;5
+2005;1704;Accidentes no especificados;2;3674;14;41;112;439;386;322;367;385;405;1187;16
+2005;1705;Otras causas externas de traumatismos accidentales, inclusive secuelas;2;2409;254;134;168;367;304;209;232;184;201;342;14
+2005;1710;Suicidios, inclusive secuelas;2;3076;0;0;74;787;556;340;372;369;281;284;13
+2005;1720;Agresiones, inclusive secuelas;2;2037;15;13;48;589;512;284;228;143;98;95;12
+2005;1730;Eventos intención no determinada, inclusive secuelas;2;1815;13;29;64;410;310;217;207;214;179;144;28
+2005;1740;Complicaciones de la atención médica y quirúrgica;2;1037;5;5;10;9;17;27;66;107;249;541;1
+2005;1750;Las demás causas externas;2;7;0;0;0;1;1;1;1;0;2;1;0
+2005;1800;18. Demás causas definidas;1;12110;139;152;233;255;302;446;950;1429;2309;5872;23
+2005;1900;B. MAL DEFINIDAS Y DESCONOCIDAS;1;21823;547;106;80;226;291;538;1335;2468;4109;11974;149
