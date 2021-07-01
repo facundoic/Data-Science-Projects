@@ -1,0 +1,83 @@
+Año;Grupo;Grupo de Causas de Defunción;Negrita;Total;Menores de 1;1 a 4;5 a 14;15 a 24;25 a 34;35 a 44;45 a 54;55 a 64;65 a 74;75 y mas;Sin especificar
+2018;0000;TODAS LAS CAUSAS;1;336823;6048;1214;1318;5986;7028;10648;18612;39502;69263;175300;1904
+2018;0001;A. TOTAL CAUSAS DEFINIDAS;1;314952;5697;1122;1265;5772;6712;10079;17518;37194;64999;162802;1792
+2018;0100;1. Enfermedades infecciosas y parasitarias;1;13971;196;58;47;181;413;759;1011;1595;2825;6765;121
+2018;0101; Enfermedades infecciosas intestinales;2;547;36;14;3;7;4;10;18;42;99;311;3
+2018;0102;Tuberculosis inclusive secuelas;2;633;0;1;5;31;59;75;70;124;137;122;9
+2018;0103;Tetanos;2;2;0;0;0;0;0;1;0;0;1;0;0
+2018;0104;Septicemias;2;10354;90;34;31;72;93;218;424;1062;2281;5955;94
+2018;0105;Infección meningocócica;2;15;3;2;2;0;1;2;1;0;1;3;0
+2018;0106;Meningitis viral;2;3;0;0;0;0;1;0;0;0;1;1;0
+2018;0110;Hepatitis viral;2;156;0;0;0;2;2;7;35;43;33;33;1
+2018;0111;Enf.por virus de la inmunodeficiencia humana;2;1339;2;2;1;56;219;392;367;174;94;23;9
+2018;0112;Tripanosomiasis (Enfermedad de Chagas);2;390;0;0;0;1;3;9;33;87;101;156;0
+2018;0113;Las demás enf. infecciosas y parasitarias ;2;532;65;5;5;12;31;45;63;63;77;161;5
+2018;0199;2. Tumores;2;63873;29;124;264;446;977;2546;5392;12250;18043;23535;267
+2018;0200;Tumores Malignos;1;61079;14;105;234;414;928;2429;5182;11773;17334;22411;255
+2018;0201; T M  Esófago;2;1697;0;0;0;0;5;20;116;358;510;682;6
+2018;0202; T M  Estómago;2;2940;0;0;0;9;42;111;242;610;893;1022;11
+2018;0203; T M  Colon, recto,  de la porción rectosigmoidea y ano;2;7349;0;1;0;14;76;231;584;1295;2002;3115;31
+2018;0204; T M  Hígado y de las vías biliares intrahepática;2;1903;1;2;6;2;17;26;170;361;628;679;11
+2018;0205; T M  Vesícula biliar y otras partes de las vías biliares;2;1255;0;0;0;2;6;36;111;268;372;455;5
+2018;0206; T M  Páncreas;2;4472;0;0;1;5;15;85;312;849;1418;1772;15
+2018;0207; T M  Tráquea, de los bronquios y del pulmón;2;9273;0;0;2;8;27;160;633;2259;3289;2860;35
+2018;0208; T M  Mama;2;5838;0;0;0;3;92;439;746;1133;1390;2019;16
+2018;0209; T M  Útero;2;2926;0;0;0;18;177;436;474;577;593;640;11
+2018;0210; T M  Ovario;2;1199;0;0;1;3;23;73;157;268;344;322;8
+2018;0211; T M  Próstata;2;3750;0;0;0;2;5;9;43;287;1049;2340;15
+2018;0212; T M  Riñón y otros órganos urinarios, excepto vejiga;2;2113;0;3;5;5;13;62;208;512;621;679;5
+2018;0213; T M  Vejiga urinaria;2;1322;0;0;0;1;1;8;52;188;388;679;5
+2018;0214; T M  Encéfalo y o/partes del sistema nervioso central ;2;1280;7;20;45;34;61;101;163;271;295;278;5
+2018;0215; T M  Linfoma no Hodgkin;2;1334;0;6;11;24;54;80;138;247;355;415;4
+2018;0216; T M  Leucemias;2;1797;3;41;96;105;96;114;140;233;362;599;8
+2018;0217; T M  Tumor maligno de sitios no especificados ;2;4009;1;1;11;29;41;118;309;719;1101;1655;24
+2018;0218; T M  Los demás tumores malignos ;2;6622;2;31;56;150;177;320;584;1338;1724;2200;40
+2018;0299;Carcinoma en situ, tumores benignos y de comportamiento incierto o desconocido;2;2794;15;19;30;32;49;117;210;477;709;1124;12
+2018;0300;3. Diabetes mellitus;1;9086;0;3;3;23;84;188;543;1581;2648;3991;22
+2018;0400;4. Def.de la nutrición y anemias nutricionales;1;780;8;6;0;10;6;16;11;35;93;591;4
+2018;0500;5. Trastornos metabólicos;1;2189;27;28;20;32;18;32;36;111;285;1586;14
+2018;0600;6. Meningitis ;1;280;23;6;6;15;21;28;39;50;52;38;2
+2018;0700;7. Enfermedad de Alzheimer;1;1326;0;0;0;2;1;2;2;20;110;1189;0
+2018;0800;8. Trast. mentales y del comportamiento;1;2902;0;0;3;17;26;58;86;156;343;2201;12
+2018;0810;Síndrome de dependencia del alcohol;2;333;0;0;0;3;8;33;66;95;88;40;0
+2018;0820;Otros transtornos mentales y del comportamiento;2;2569;0;0;3;14;18;25;20;61;255;2161;12
+2018;0900;9. Enfermedades del sistema circulatorio;1;95826;55;47;72;281;641;1626;4142;9876;19435;59139;512
+2018;0910;Enfermedades hipertensivas;2;7293;1;1;0;5;16;62;180;569;1177;5238;44
+2018;0911;Enfermedades isquémicas del corazón;2;22070;3;4;1;41;113;420;1284;3053;5235;11805;111
+2018;0912;Insuficiencia cardíaca;2;22973;19;13;11;49;128;247;644;1617;3836;16221;188
+2018;0913;Compl.y descripc.mal definidas de enf. cardíaca;2;1495;0;1;4;8;11;44;75;160;280;900;12
+2018;0914;Las demás enfermedades del corazón;2;18060;22;18;20;92;167;341;756;1830;3738;11005;71
+2018;0920;Enfermedades cerebrovasculares;2;19210;8;8;29;67;171;416;1025;2233;4225;10958;70
+2018;0921;Ateroesclerosis;2;314;0;0;0;0;0;0;4;12;32;263;3
+2018;0922;Las demás enfermedades del sistema circulatorio;2;4411;2;2;7;19;35;96;174;402;912;2749;13
+2018;1000;10. Enfermedades del sistema respiratorio;1;61668;380;175;115;373;499;955;1766;4644;11256;41106;399
+2018;1010;Neumonía e influenza;2;31916;99;91;52;210;275;496;908;2079;5023;22462;221
+2018;1011;Bronquitis y bronquiolitis agudas;2;155;47;4;0;0;0;3;2;5;18;76;0
+2018;1012;Las demás infecciones respiratorias agudas ;2;1030;4;3;3;7;12;14;12;54;199;721;1
+2018;1020;Enfermedades crónicas de las vías respiratorias inferiores;2;7036;6;8;5;24;26;64;192;926;2043;3717;25
+2018;1030;Neumonitis debidas a sólidos y líquidos;2;3203;139;26;14;26;19;48;60;120;368;2369;14
+2018;1040;Insuficiencia respiratoria no clasificada en otra parte;2;10707;19;13;10;28;72;160;318;805;2152;7015;115
+2018;1050;Las demás enfermedades del sistema respiratorio;2;7621;66;30;31;78;95;170;274;655;1453;4746;23
+2018;1100;11. Apendicitis, hernia de la cavidad abdominal y obstrucción intestinal;1;1866;5;2;5;16;26;37;72;125;352;1213;13
+2018;1200;12. Enfermedades del hígado ;1;5549;12;2;8;27;80;292;888;1516;1635;1053;36
+2018;1210;Ciertas enf. crónicas del hígado y cirrosis;2;4043;1;0;2;8;56;198;681;1147;1219;709;22
+2018;1220;Las demás enfermedades del hígado;2;1506;11;2;6;19;24;94;207;369;416;344;14
+2018;1300;13. Enfermedades del sistema urinario;1;13305;19;14;13;51;93;226;450;1243;2544;8589;63
+2018;1310;Nefritis y nefrosis;2;8719;14;10;9;36;81;186;370;983;1843;5146;41
+2018;1320;Las demás enfermedades del sistema urinario;2;4586;5;4;4;15;12;40;80;260;701;3443;22
+2018;1400;14. Embarazo, parto y puerperio;1;294;0;0;1;95;112;83;2;1;0;0;0
+2018;1500;15.  Ciertas afecciones originadas en el período perinatal;1;3039;3039;0;0;0;0;0;0;0;0;0;0
+2018;1600;16.  Malformaciones Congénitas, Deformaciones y anomalías cromosómicas;1;2180;1690;192;64;62;42;34;23;35;15;20;3
+2018;1700;17. Causas externas;1;19472;135;343;437;3774;3276;2544;1937;1872;1860;3052;242
+2018;1701;Accidentes de tráfico de vehículo de motor;2;4097;18;57;108;1080;789;633;464;399;347;179;23
+2018;1702;Otros accidentes de transporte, inclusive secuelas;2;256;2;7;11;48;41;41;32;35;25;12;2
+2018;1703;Ahogamiento y sumersión accidentales;2;341;7;70;27;74;49;32;29;24;13;14;2
+2018;1704;Accidentes no especificados;2;2565;3;25;23;262;219;222;168;219;264;1146;14
+2018;1705;Otras causas externas de traumatismos accidentales, inclusive secuelas;2;1867;79;74;78;178;216;196;174;196;209;437;30
+2018;1710;Suicidios, inclusive secuelas;2;3322;0;0;57;885;704;487;379;292;237;241;40
+2018;1720;Agresiones, inclusive secuelas;2;1646;6;22;21;454;426;264;140;125;86;70;32
+2018;1730;Eventos intención no determinada, inclusive secuelas;2;4302;13;84;100;770;806;620;481;439;389;502;98
+2018;1740;Complicaciones de la atención médica y quirúrgica;2;1055;7;4;12;18;24;47;68;142;284;448;1
+2018;1750;Las demás causas externas;2;21;0;0;0;5;2;2;2;1;6;3;0
+2018;1800;18. Demás causas definidas;1;17346;79;122;207;367;397;653;1118;2084;3503;8734;82
+2018;1900;B. MAL DEFINIDAS Y DESCONOCIDAS;1;21871;351;92;53;214;316;569;1094;2308;4264;12498;112
